@@ -1,0 +1,37 @@
+- id: 1
+  created_at: 2016-01-01 12:30:12
+  updated_at: 2016-01-01 12:30:12
+  item_id: 1
+  category_id: 1001
+  seller_id: 1
+  price: 20.45
+  quantity: 1
+
+- id: 2
+  created_at: 2016-01-01 12:30:12
+  updated_at: 2016-01-01 12:30:12
+  item_id: 2
+  category_id: 1001
+  seller_id: 1
+  price: 30.50
+  quantity: 6
+
+- id: 3
+  created_at: 2016-01-01 12:30:12
+  updated_at: 2016-01-01 12:30:12
+  item_id: 3
+  category_id: 3004
+  seller_id: 1
+  price: 3.50
+  quantity: 1
+
+- id: 4
+  created_at: 2016-01-01 12:30:12
+  updated_at: 2016-01-01 12:30:12
+  item_id: 4
+  category_id: 1001
+  seller_id: 6
+  price: 100000
+  quantity: 2
+
+

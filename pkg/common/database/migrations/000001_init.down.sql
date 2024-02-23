@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS vas_items;
+DROP TABLE IF EXISTS items;
